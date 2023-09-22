@@ -9,7 +9,7 @@ After my rigorous studies in Neuroscience and Psychology at the University of Gl
 
 My academic foundation has equipped me with sharp critical thinking and analytical skills, positioning me to thrive in the ever-evolving domain of technology.
 
-I am dedicated to harnessing software engineering to effect meaningful change, with a particular focus on delivering precise and impactful technological solutions.l
+I am dedicated to harnessing software engineering to effect meaningful change, with a particular focus on delivering precise and impactful technological solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-o%E2%80%99connor-925b1823b/)
 
